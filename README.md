@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 7 |
+| 15 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (3)
+- [brute force](#brute-force) (4)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (8)
-- [math](#math) (3)
+- [implementation](#implementation) (9)
+- [math](#math) (4)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
 
@@ -35,6 +35,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 
 ### greedy
 
@@ -55,6 +56,7 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 
@@ -64,6 +66,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 
 ### sortings
