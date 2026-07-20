@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 16 | 7 |
+| 17 | 8 |
 
 ---
 
@@ -16,7 +16,8 @@
 - [brute force](#brute-force) (4)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (10)
-- [math](#math) (4)
+- [math](#math) (5)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
 
@@ -69,6 +70,13 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/50/A%20-%20Domino%20piling/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/617/A%20-%20Elephant/solution.java) |
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
 
 ### sortings
 
