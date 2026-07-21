@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/977/problem/A" target="_blank" rel="noopener noreferrer">977A — Wrong Subtraction</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | Java 21 |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 977A](https://codeforces.com/contest/977/problem/A) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Wrong Subtraction</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Little girl Tanya is learning how to decrease a number by one, but she does it wrong with a number consisting of two or more digits. Tanya subtracts one from a number by the following algorithm:</p><ul> <li> if the last digit of the number is non-zero, she decreases the number by one; </li><li> if the last digit of the number is zero, she divides the number by 10 (i.e. removes the last digit). </li></ul><p>You are given an integer number $$$n$$$. Tanya will subtract one from it $$$k$$$ times. Your task is to print the result after all $$$k$$$ subtractions.</p><p>It is guaranteed that the result will be positive integer number.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of the input contains two integer numbers $$$n$$$ and $$$k$$$ ($$$2 \le n \le 10^9$$$, $$$1 \le k \le 50$$$) — the number from which Tanya will subtract and the number of subtractions correspondingly.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Print one integer number — the result of the decreasing $$$n$$$ by one $$$k$$$ times.</p><p>It is guaranteed that the result will be positive integer number. </p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id005034511312520801" id="id008054146651926746" class="input-output-copier">Copy</div></div><pre id="id005034511312520801">512 4<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id004892502319612033" id="id008367280009687625" class="input-output-copier">Copy</div></div><pre id="id004892502319612033">50<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id004399730285376614" id="id007744523895109203" class="input-output-copier">Copy</div></div><pre id="id004399730285376614">1000000000 9<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id006317269728765764" id="id003040710701294178" class="input-output-copier">Copy</div></div><pre id="id006317269728765764">1<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>The first example corresponds to the following sequence: $$$512 \rightarrow 511 \rightarrow 510 \rightarrow 51 \rightarrow 50$$$.</p></div>
