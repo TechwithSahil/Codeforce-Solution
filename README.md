@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 25 | 11 |
+| 26 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (18)
+- [implementation](#implementation) (19)
 - [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -40,6 +40,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1904/A%20-%20Forked!/solution.java) |
 
 ### constructive algorithms
 
@@ -84,6 +85,7 @@
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1904/A%20-%20Forked!/solution.java) |
 
 ### math
 
