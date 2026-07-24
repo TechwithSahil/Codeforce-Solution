@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 11 |
+| 27 | 13 |
 
 ---
 
@@ -15,9 +15,11 @@
 - [*special](#special) (1)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (19)
+- [implementation](#implementation) (20)
 - [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -47,6 +49,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1709B | [Also Try Minecraft](https://codeforces.com/contest/1709/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1709/B%20-%20Also%20Try%20Minecraft/solution.java) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1709B | [Also Try Minecraft](https://codeforces.com/contest/1709/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1709/B%20-%20Also%20Try%20Minecraft/solution.java) |
 
 ### graph matchings
 
@@ -84,6 +98,7 @@
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.java) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.java) |
+| 1709B | [Also Try Minecraft](https://codeforces.com/contest/1709/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1709/B%20-%20Also%20Try%20Minecraft/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1904/A%20-%20Forked!/solution.java) |
 
