@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 13 |
+| 35 | 13 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (22)
+- [implementation](#implementation) (23)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (9)
 
 ---
@@ -110,6 +110,7 @@
 | 1709B | [Also Try Minecraft](https://codeforces.com/contest/1709/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1709/B%20-%20Also%20Try%20Minecraft/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1904/A%20-%20Forked!/solution.java) |
+| 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.java) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
 
 ### math
@@ -142,6 +143,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 2185C | [Shifted MEX](https://codeforces.com/contest/2185/problem/C) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2185/C%20-%20Shifted%20MEX/solution.java) |
 
 ### strings
 
