@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 13 |
+| 33 | 13 |
 
 ---
 
@@ -18,9 +18,9 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (7)
-- [implementation](#implementation) (21)
-- [math](#math) (6)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (22)
+- [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (1)
@@ -82,6 +82,7 @@
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2200/C%20-%20Specialty%20String/solution.java) |
 | 2209B | [Array](https://codeforces.com/contest/2209/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2209/B%20-%20Array/solution.java) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2225/B%20-%20Alternating%20String/solution.java) |
+| 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
 
 ### implementation
 
@@ -108,6 +109,7 @@
 | 1709B | [Also Try Minecraft](https://codeforces.com/contest/1709/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1709/B%20-%20Also%20Try%20Minecraft/solution.java) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1904/A%20-%20Forked!/solution.java) |
+| 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
 
 ### math
 
@@ -118,6 +120,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.java) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/contest/2195/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2195/A%20-%20Sieve%20of%20Erato67henes/solution.java) |
+| 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.java) |
 
 ### number theory
