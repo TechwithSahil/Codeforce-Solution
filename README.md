@@ -6,19 +6,20 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 13 |
+| 36 | 14 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (23)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
@@ -33,6 +34,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.java) |
 
 ### brute force
 
@@ -84,6 +91,7 @@
 | 2216A | [Course Wishes](https://codeforces.com/contest/2216/problem/A) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2216/A%20-%20Course%20Wishes/solution.java) |
 | 2225B | [Alternating String](https://codeforces.com/contest/2225/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2225/B%20-%20Alternating%20String/solution.java) |
 | 2230B | [Digit String](https://codeforces.com/contest/2230/problem/B) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2230/B%20-%20Digit%20String/solution.java) |
+| 2237C | [Duck Surplus](https://codeforces.com/contest/2237/problem/C) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2237/C%20-%20Duck%20Surplus/solution.java) |
 
 ### implementation
 
