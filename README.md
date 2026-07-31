@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 14 |
+| 37 | 14 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (23)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
@@ -64,6 +64,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1709B | [Also Try Minecraft](https://codeforces.com/contest/1709/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1709/B%20-%20Also%20Try%20Minecraft/solution.java) |
+| 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.java) |
 
 ### dp
 
@@ -86,6 +87,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
+| 2193C | [Replace and Sum](https://codeforces.com/contest/2193/problem/C) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2193/C%20-%20Replace%20and%20Sum/solution.java) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2200/C%20-%20Specialty%20String/solution.java) |
 | 2209B | [Array](https://codeforces.com/contest/2209/problem/B) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2209/B%20-%20Array/solution.java) |
 | 2216A | [Course Wishes](https://codeforces.com/contest/2216/problem/A) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2216/A%20-%20Course%20Wishes/solution.java) |
