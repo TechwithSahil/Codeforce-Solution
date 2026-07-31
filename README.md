@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 14 |
+| 38 | 14 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (7)
-- [constructive algorithms](#constructive-algorithms) (1)
+- [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (2)
 - [graph matchings](#graph-matchings) (1)
@@ -25,7 +25,7 @@
 - [number theory](#number-theory) (2)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
-- [strings](#strings) (9)
+- [strings](#strings) (10)
 
 ---
 
@@ -58,6 +58,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.java) |
+| 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.java) |
 
 ### data structures
 
@@ -167,6 +168,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
+| 2192B | [Flipping Binary String](https://codeforces.com/contest/2192/problem/B) | 1000 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2192/B%20-%20Flipping%20Binary%20String/solution.java) |
 | 2200C | [Specialty String](https://codeforces.com/contest/2200/problem/C) | 900 | [Java 21](https://github.com/TechwithSahil/Codeforce-Solution/blob/HEAD/2200/C%20-%20Specialty%20String/solution.java) |
 
 ---
